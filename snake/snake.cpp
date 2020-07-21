@@ -8,7 +8,7 @@ void snake::generate()
 			fruts[n][k] = 0;
 		}
 	}
-	
+	int frut_count = 0;
 	while (frut_count != 10) {
 
 		int x = game_height + rand() % game_width - game_height + 1;

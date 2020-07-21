@@ -8,18 +8,17 @@ using namespace sf;
 
 class snake
 {
+
+private:
 	#define height 810
 	#define width 810
 	#define Cells 15
 	#define game_height height / Cells
 	#define game_width width / Cells
 	int fruts[game_height][game_width];
-	int frut_count = 0;
-	bool r = true;
 	int ckor = 0;
 	int ckor_2 = 0;
 	int FPS = 220;
-	int line = 0;
 
 	void generate();
 
@@ -37,7 +36,6 @@ class snake
 
 	void dock(RectangleShape *snake_1, RectangleShape *snake_2, RectangleShape *square, RectangleShape *square_dead);
 	
-
 public:
 
 	void start();
