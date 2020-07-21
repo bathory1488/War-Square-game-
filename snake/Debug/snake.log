@@ -1,0 +1,40 @@
+﻿  snake.cpp
+c:\users\user\desktop\задания\snake\snake\snake.cpp(36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\desktop\задания\snake\snake\snake.cpp(44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\desktop\задания\snake\snake\snake.cpp(58): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\desktop\задания\snake\snake\snake.cpp(79): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\desktop\задания\snake\snake\snake.cpp(104): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\desktop\задания\snake\snake\snake.cpp(119): warning C4305: аргумент: усечение из "int" в "sf::Uint8"
+c:\users\user\desktop\задания\snake\snake\snake.cpp(119): warning C4309: аргумент: усечение константного значения
+c:\users\user\desktop\задания\snake\snake\snake.cpp(123): warning C4305: аргумент: усечение из "int" в "sf::Uint8"
+c:\users\user\desktop\задания\snake\snake\snake.cpp(123): warning C4309: аргумент: усечение константного значения
+c:\users\user\desktop\задания\snake\snake\snake.cpp(127): warning C4305: аргумент: усечение из "int" в "sf::Uint8"
+c:\users\user\desktop\задания\snake\snake\snake.cpp(127): warning C4309: аргумент: усечение константного значения
+c:\users\user\desktop\задания\snake\snake\snake.cpp(137): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\user\desktop\задания\snake\snake\snake.cpp(164): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\задания\snake\snake\snake.cpp(165): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\задания\snake\snake\snake.cpp(168): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\задания\snake\snake\snake.cpp(169): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\задания\snake\snake\snake.cpp(204): warning C4305: аргумент: усечение из "int" в "sf::Uint8"
+c:\users\user\desktop\задания\snake\snake\snake.cpp(204): warning C4309: аргумент: усечение константного значения
+c:\users\user\desktop\задания\snake\snake\snake.cpp(206): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\desktop\задания\snake\snake\snake.cpp(211): warning C4305: аргумент: усечение из "int" в "sf::Uint8"
+c:\users\user\desktop\задания\snake\snake\snake.cpp(211): warning C4309: аргумент: усечение константного значения
+c:\users\user\desktop\задания\snake\snake\snake.cpp(213): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  snake.vcxproj -> C:\Users\User\Desktop\задания\snake\Debug\snake.exe

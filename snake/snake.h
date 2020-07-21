@@ -16,14 +16,10 @@ class snake
 	int fruts[game_height][game_width];
 	int frut_count = 0;
 	bool r = true;
-	int z = height / 2;
-	int l = width / 2;
 	int ckor = 0;
 	int ckor_2 = 0;
 	int FPS = 220;
 	int line = 0;
-
-	
 
 	void generate();
 

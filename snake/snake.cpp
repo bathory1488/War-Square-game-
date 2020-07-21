@@ -118,11 +118,11 @@ void snake::dock(RectangleShape *snake_1, RectangleShape *snake_2, RectangleShap
 {
 	snake_1->setFillColor(Color(1, 1000, 1));
 	snake_1->setSize(Vector2f(Cells, Cells));
-	snake_1->setPosition(z, l);
+	snake_1->setPosition(height / 2, width / 2);
 
 	snake_2->setFillColor(Color(1000, 100, 10));
 	snake_2->setSize(Vector2f(Cells, Cells));
-	snake_2->setPosition(z + 1, l + 1);
+	snake_2->setPosition(height / 2 - 100, width / 2 - 100);
 
 	square->setFillColor(Color(100, 80, 510));
 	square->setSize(Vector2f(Cells, Cells));
